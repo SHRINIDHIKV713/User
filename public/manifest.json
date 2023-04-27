@@ -1,0 +1,10 @@
+{
+  "short_name": "User management",
+  "name": "User management",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
